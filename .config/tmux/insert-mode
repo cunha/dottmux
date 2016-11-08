@@ -32,3 +32,4 @@ unbind -n "'"
 unbind -n :
 
 unbind -n i
+bind -n F10 source /home/cunha/.config/tmux/command-mode
