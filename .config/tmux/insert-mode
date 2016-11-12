@@ -9,6 +9,7 @@ unbind -n j
 unbind -n k
 unbind -n l
 
+unbind -n s
 unbind -n z
 unbind -n d
 unbind -n [
